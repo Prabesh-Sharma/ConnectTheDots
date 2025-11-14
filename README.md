@@ -57,6 +57,7 @@ Submit your contributions through a Pull Request using the format shown below.
 | User | Repository | Rice Screenshot |
 |------|------------|-----------------|
 | shri-acha | [shri-acha/dotfiles](https://github.com/shri-acha/dotfiles) | <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a0a7bcb2-9997-475b-9a63-556b0d6ddec3" /> |
+| shri-acha | [abhiyandhakal/dotfiles](https://github.com/abhiyandhakal/dotfiles) | <img width="1919" height="1079" alt="image" src="https://github.com/abhiyandhakal/dotfiles/blob/c1c4855619bc4769e71b3a531e1f79453be58f07/2025-11-14-225633_hyprshot.png" /> |
 
 
 ---
