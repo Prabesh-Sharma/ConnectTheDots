@@ -57,7 +57,7 @@ Submit your contributions through a Pull Request using the format shown below.
 | User | Repository | Rice Screenshot |
 |------|------------|-----------------|
 | shri-acha | [shri-acha/dotfiles](https://github.com/shri-acha/dotfiles) | <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a0a7bcb2-9997-475b-9a63-556b0d6ddec3" /> |
-| your-username | [your-user/dotfiles](https://github.com/your-user/dotfiles) | <a href="https://placehold.co/800x600?text=Your+Screenshot+Here"><img src="https://placehold.co/400x225?text=Your+Rice+Preview" width="400" alt="Your desktop rice preview"></a> |
+
 
 ---
 
