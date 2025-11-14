@@ -1,21 +1,81 @@
-# ConnectTheDots
+# ConnectTheDots  
+*A KUOSC Community Dotfiles & Ricing Showcase*
 
-A repository to store and showcase dotfiles and desktop customizations from the KUOSC.
+<p align="center">
+  <a href="https://github.com/kuosc2005/">
+    <img src="https://www.kuosc.org.np/img/kuosc.webp" width="200" alt="KUOSC Logo">
+  </a>
+</p>
 
-### About This Project
+## About KUOSC
 
-This repository is a community-driven collection of dotfiles and desktop rices from the Kathmandu University Open Source Community and contributors like you.
+The **Kathmandu University Open Source Community (KUOSC)** is a student-driven group dedicated to promoting open-source culture within Kathmandu University and the wider tech ecosystem.  
 
-The goal is to create a central hub where we can:
+KUOSC believes in:
 
-- Share our unique and beautiful desktop setups.
-- Inspire others with cool configurations and tools.
-- Connect with others who share a passion for customization.
+- **Open collaboration**  
+- **Transparency and community-driven development**  
+- **Learning by contributing**
 
-### The Gallery
+The community hosts workshops, hackathons, meetups, and collaborative projects that empower students to explore open-source tools, technologies, and contributions.
 
-Here's where we showcase everyone's hard work. Find a setup you like, check out their dotfiles, and get inspired!
+Explore KUOSC here:  
+🔗 https://github.com/kuosc2005/
+
+---
+
+## About This Project — *ConnectTheDots*
+
+**ConnectTheDots** is a community-powered repository created to collect and showcase:
+
+- Desktop customizations  
+- Dotfiles  
+- Window manager configurations  
+- Terminal themes  
+- Linux rices  
+
+This repository serves as a **central hub** for inspiration, sharing, and documenting creative setups from the KUOSC community and contributors like you.
+
+---
+
+## Purpose
+
+This project aims to:
+
+- Create a gallery of unique and beautiful desktop setups  
+- Make dotfiles accessible for others to explore and reuse  
+- Encourage Linux customization and workflow personalization  
+- Promote open-source sharing and collaboration  
+
+---
+
+## The Gallery
+
+Showcase your desktop setup!  
+Submit your contributions through a Pull Request using the format shown below.
 
 | User | Repository | Rice Screenshot |
 |------|------------|-----------------|
-| example-user | [example-user/dots](https://github.com/example-user/dots) | <a href="https://placehold.co/800x600/222/fff?text=Example+Rice"><img src="https://placehold.co/400x225/222/fff?text=Example+Rice" width="400" alt="Example user's desktop rice"></a> |
+| shri-acha | [shri-acha/dotfiles](https://github.com/shri-acha/dotfiles) | <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a0a7bcb2-9997-475b-9a63-556b0d6ddec3" /> |
+| your-username | [your-user/dotfiles](https://github.com/your-user/dotfiles) | <a href="https://placehold.co/800x600?text=Your+Screenshot+Here"><img src="https://placehold.co/400x225?text=Your+Rice+Preview" width="400" alt="Your desktop rice preview"></a> |
+
+---
+
+## How to Contribute
+
+1. **Fork** this repository  
+2. Add your entry under **The Gallery**  
+3. Include:
+   - Your username  
+   - Your dotfiles repo link  
+   - A screenshot (or placeholder)  
+4. Submit a **Pull Request**  
+5. Celebrate your contribution
+
+---
+
+## Join the Community
+
+KUOSC is always open to contributors. Join us and help grow the open-source culture at Kathmandu University!
+
+GitHub: https://github.com/kuosc2005/  
